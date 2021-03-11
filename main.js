@@ -9,6 +9,9 @@ function addMeToStart(arr){
     arr.unshift('Colin')
 }
 
+function changeLast(arr, val){
+    arr[arr.length-1] = val
+}
 
 
 
