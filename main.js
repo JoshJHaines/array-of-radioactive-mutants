@@ -13,6 +13,12 @@ function changeLast(arr, val){
     arr[arr.length-1] = val
 }
 
+function changeAllValuesTo(arr, val){
+  for (i=0; i<arr.length; i++){
+    arr[i] = val
+  }
+}
+
 
 
 /*********************************
