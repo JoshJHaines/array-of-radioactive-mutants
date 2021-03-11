@@ -1,6 +1,10 @@
 /******************
  * YOUR CODE HERE *
  ******************/
+function addMeToEnd(arr){
+    arr.push('Colin')
+}
+
 
 
 
